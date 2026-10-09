@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "project-context": {
+      "command": "/FULL/PATH/TO/project-context-mcp/.venv/bin/python",
+      "args": [
+        "-m", "project_context_mcp",
+        "--root", "/FULL/PATH/TO/your-project"
+      ]
+    }
+  }
+}
